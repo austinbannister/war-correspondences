@@ -1,1 +1,3 @@
 <iframe src="https://uploads.knightlab.com/storymapjs/ddba8d664504435017fe7f99d3049bf6/nmu-ww2-correspondences/draft.html" frameborder="0" width="100%" height="800"></iframe>
+<img src="https://image.ibb.co/bFCwhm/Cadet_Menucci_one.jpg" alt="Cadet Menucci one" border="0" />
+<img src="https://image.ibb.co/iw3K2m/Cadet_Menucci_two.jpg" alt="Cadet Menucci two" border="0" />
